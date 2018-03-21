@@ -5,4 +5,4 @@ if (al>='a'):
 elif(al>='A'):
       print("it is alphabet")
 else:
-      print ("no")
+      print ("No")
